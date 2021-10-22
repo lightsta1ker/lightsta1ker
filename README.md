@@ -3,7 +3,7 @@
 - 🔭 I just ventured in to DevOps!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: K8S, REST API
-- ⚡ Fun fact: I love music and photography.il.
+- ⚡ Fun fact: I love music and photography.
 
 ### Connect with me:
 
