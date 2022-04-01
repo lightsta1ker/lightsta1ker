@@ -16,7 +16,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="aruninn01's GitHub Stats" src="https://github-readme-stats.aruninn01.vercel.app/api?username=aruninn01&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ru's GitHub Stats" src="https://github-readme-stats.lightsta1ker.vercel.app/api?username=aruninn01&show_icons=true&hide_border=true" />
 
 </details>
 
