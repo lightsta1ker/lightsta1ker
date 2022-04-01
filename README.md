@@ -1,8 +1,8 @@
 ### Hi there, I'm Ru 👋
 
 - 🔭 I just ventured in to DevOps!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: K8S, REST API
+- 🌱 I’m currently learning node.js with TypeScript
+- 🥅 2022 Goals: TypeScript, React, GraphQL
 - ⚡ Fun fact: I love music and photography.
 
 ### Connect with me:
