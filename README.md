@@ -1,4 +1,4 @@
-### Hi there, I'm Arun 👋
+### Hi there, I'm Ru 👋
 
 - 🔭 I just ventured in to DevOps!
 - 🌱 I’m currently learning everything 🤣
