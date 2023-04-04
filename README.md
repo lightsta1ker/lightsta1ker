@@ -1,9 +1,7 @@
 ### Hi there, I'm Ru 👋
 
 - 🔭 I just ventured in to DevOps!
-- 🌱 I’m currently learning node.js with TypeScript
-- 🥅 2022 Goals: TypeScript, React, GraphQL
-- ⚡ Fun fact: I love music and photography.
+- 🌱 I’m currently learning k8s
 
 ### Connect with me:
 
